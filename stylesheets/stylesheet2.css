@@ -7,3 +7,15 @@
 #content {
 	padding-left: 200px;
 }
+
+li, a {
+	float: right;
+	padding: 6px 10px;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+	background: #cdd;
+	color: #333;
+	border-bottom: 1px solid #689;
+	text-decoration: none;
+}
