@@ -9,6 +9,7 @@
 }
 
 li {
+	display: block;
 	float: right;
 	padding: 6px 10px;
 	-webkit-border-radius: 2px;
