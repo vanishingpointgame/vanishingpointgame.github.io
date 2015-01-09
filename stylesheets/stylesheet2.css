@@ -27,5 +27,6 @@ a {
 }
 
 ul {
+	display: block;
 	list-style: none;
 }
