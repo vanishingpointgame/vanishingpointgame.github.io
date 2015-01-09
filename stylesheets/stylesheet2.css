@@ -24,6 +24,10 @@ li a {
 	zoom: 1;
 }
 
+#navigation img {
+	float: right;
+}
+
 li a:hover {
 	background-color: #cee;
 }
