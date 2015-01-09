@@ -21,6 +21,11 @@ li a {
 	text-decoration: none;
 	margin: 3px;
 	clear: both;
+	zoom: 1;
+}
+
+li a:hover {
+	background-color: #cee;
 }
 
 ul {
