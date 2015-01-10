@@ -9,6 +9,13 @@
 	padding-right: 20%;
 }
 
+.line {
+	background: #ddd;
+	width: 10%;
+	height: 3px;
+	margin: 12px 0;
+}
+
 li a {
 	display: block;
 	float: right;
@@ -53,6 +60,11 @@ h2 {
 	font-size: 48px;
 	margin-bottom: 0;
 	font-family: 'arvo',helvetica,arial,sans-serif;
+}
+
+h4 {
+	color: #cdd;
+	font-size: 18px;
 }
 
 h5 {
