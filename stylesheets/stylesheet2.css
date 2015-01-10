@@ -44,7 +44,7 @@ h1 {
 	color: white;
 	font-size: 64px;
 	margin-bottom: 0;
-	font-family: arial,serif;
+	font-family: 'arvo',helvetica,arial,sans-serif;
 }
 
 h5 {
@@ -52,7 +52,7 @@ h5 {
 	color: white;
 	font-size: 18px;
 	margin-top: 0;
-	font-family: arial,serif;
+	font-family: 'arvo',helvetica,arial,sans-serif;
 }
 
 body {
