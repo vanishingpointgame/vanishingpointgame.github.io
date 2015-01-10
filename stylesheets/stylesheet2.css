@@ -22,7 +22,6 @@ li a {
 	text-decoration: none;
 	margin: 3px;
 	clear: both;
-	zoom: 1;
 }
 
 #navigation img {
@@ -51,4 +50,5 @@ h5 {
 body {
 	font-family: arial,sans-serif;
 	color: #666;
+	line-height: 1.45;
 }
