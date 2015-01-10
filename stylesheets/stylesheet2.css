@@ -41,7 +41,7 @@ li a:hover {
 	background-color: #cee;
 }
 
-ul {
+ul.nav {
 	display: block;
 	list-style: none;
 }
