@@ -47,6 +47,14 @@ h1 {
 	font-family: 'arvo',helvetica,arial,sans-serif;
 }
 
+h2 {
+	text-align: center;
+	color: white;
+	font-size: 48px;
+	margin-bottom: 0;
+	font-family: 'arvo',helvetica,arial,sans-serif;
+}
+
 h5 {
 	text-align: center;
 	color: white;
