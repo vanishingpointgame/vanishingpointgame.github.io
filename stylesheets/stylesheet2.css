@@ -1,11 +1,11 @@
 #navigation {
 	position: fixed;
-	width: 15%;
+	width: 25%;
 	height: 100%
 }
 
 .content {
-	padding-left: 20%;
+	padding-left: 30%;
 	padding-right: 20%;
 }
 
