@@ -37,3 +37,13 @@ ul {
 	display: block;
 	list-style: none;
 }
+
+h1 {
+	text-align: center;
+	vertical-align: bottom;
+}
+
+h5 {
+	text-align: center;
+	vertical-align: bottom;
+}
