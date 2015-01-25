@@ -39,6 +39,7 @@ table, td, th {
 }
 
 td, th {
+	width: 50%;
 	padding: 2%;
 }
 
