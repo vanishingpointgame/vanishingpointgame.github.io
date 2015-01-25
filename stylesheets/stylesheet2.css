@@ -33,6 +33,14 @@ li a {
 	clear: both;
 }
 
+table, td, th {
+	border: none;
+}
+
+td, th {
+	padding: 2%;
+}
+
 #navigation img {
 	float: right;
 }
