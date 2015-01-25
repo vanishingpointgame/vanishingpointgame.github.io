@@ -35,6 +35,7 @@ li a {
 
 table, td, th {
 	border: none;
+	width: 100%;
 }
 
 td, th {
