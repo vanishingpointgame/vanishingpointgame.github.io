@@ -33,6 +33,11 @@ li a {
 	clear: both;
 }
 
+a, 
+a img {
+	text-decoration: none;
+}
+
 table, td, th {
 	border: none;
 	width: 100%;
